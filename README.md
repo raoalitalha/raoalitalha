@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali Talha</h1>
 <h3 align="center">I am an aspiring Data Analyst, navigating my way to become a Data Scientist.</h3>
-<img align = "right" alt "Coding" width= "400" src = "https://abderrahim-alakouche.netlify.app/static/media/developer.cd59d626.gif"
+<img align = "right" alt "Coding" width= "400" src = "https://aditikhome.files.wordpress.com/2019/02/0nsgxxd0kwn3qt2ks.gif"
 
 <p align="left">
     <a href="https://twitter.com/rao_alitalha" target="blank"><img src="https://img.shields.io/twitter/follow/rao_alitalha?logo=twitter&style=for-the-badge" alt="rao_alitalha" /></a>
