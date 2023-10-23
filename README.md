@@ -8,13 +8,13 @@
     <a href="https://twitter.com/rao_alitalha" target="blank"><img src="https://img.shields.io/twitter/follow/rao_alitalha?logo=twitter&style=for-the-badge" alt="rao_alitalha" /></a>
 </p>
 
-- 🔭 I’m currently working on **Python, Machine Learning, LLM**
-- 🌱 I’m currently learning **TensorFlow, OpenCV, Tableau**
-- 👯 I’m looking to collaborate related to **Customer Retention, HR, Social Psychology (Autism)**
-- 💬 Ask me about **Python, Pandas, seaborn, Visualization**
-- 📫 How to reach me [raoalitalha@gmail.com](mailto:raoalitalha@gmail.com)
-- 📄 Know about my experiences [https://www.linkedin.com/in/raoalitalha/](https://www.linkedin.com/in/raoalitalha/)
-- ⚡ Fun fact **I think someday I will be able to fight like Neo from the "Matrix" movie**
+- 🔭 I’m currently working on **Python, Machine Learning, LLM** <br>
+- 🌱 I’m currently learning **TensorFlow, OpenCV, Tableau** <br>
+- 👯 I’m looking to collaborate related to **Customer Retention, HR, Social Psychology (Autism)** <br>
+- 💬 Ask me about **Python, Pandas, seaborn, Visualization** <br>
+- 📫 How to reach me [raoalitalha@gmail.com](mailto:raoalitalha@gmail.com) <br>
+- 📄 Know about my experiences [https://www.linkedin.com/in/raoalitalha/](https://www.linkedin.com/in/raoalitalha/) <br>
+- ⚡ Fun fact **I think someday I will be able to fight like Neo from the "Matrix" movie** <br>
 
 <h3 align="left">Connect with me:</h3>
 
