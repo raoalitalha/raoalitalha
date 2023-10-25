@@ -5,7 +5,7 @@
 <img align = "right" alt "Coding" width= "400" src = "https://aditikhome.files.wordpress.com/2019/02/0nsgxxd0kwn3qt2ks.gif"
 
 <p align="left">
-    <a href="https://twitter.com/rao_alitalha" target="blank"><img src="https://img.shields.io/twitter/follow/rao_alitalha?logo=twitter&style=for-the-badge" alt="Follow" /></a>
+    <a href="https://twitter.com/alitalhavlogs" rel="nofollow"><img src="https://camo.githubusercontent.com/b014a16c00944a3f1e1030b9bc2b0a87c23288b15e1afd8375b5569a3cf45109/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6c6c6f772d2532333144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Follow on Twitter" data-canonical-src="https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 - 🔭 I’m currently working on **Python, Machine Learning, LLM** <br>
