@@ -5,7 +5,7 @@
 <img align = "right" alt "Coding" width= "400" src = "https://aditikhome.files.wordpress.com/2019/02/0nsgxxd0kwn3qt2ks.gif"
 
 <p align="left">
-    <a href="https://twitter.com/rao_alitalha" target="blank"><img src="https://img.shields.io/twitter/follow/rao_alitalha?logo=twitter&style=for-the-badge" alt="rao_alitalha" /></a>
+    <a href="https://twitter.com/rao_alitalha" target="blank"><img src="https://img.shields.io/twitter/follow/rao_alitalha?logo=twitter&style=for-the-badge" alt="Follow" /></a>
 </p>
 
 - 🔭 I’m currently working on **Python, Machine Learning, LLM** <br>
