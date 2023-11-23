@@ -24,7 +24,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raoalitalha/](https://www.linkedin.com/in/raoalitalha/) <br>
 
-- Read My Blogs on [Medium](https://medium.com/@raoalitalha) <br>
 
 - ⚡ Fun fact **I think someday I will be able to fight like Neo from the "Matrix" movie** <br>
 
