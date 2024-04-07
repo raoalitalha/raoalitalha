@@ -13,13 +13,13 @@
 
 </p>
 
-- 🔭 I’m currently working on **Python, Machine Learning, LLM** <br>
+- 🔭 I’m currently working on **SQL, Linux, Virtulization, Git, Python** <br>
 
-- 🌱 I’m currently learning **TensorFlow, OpenCV, Tableau** <br>
+- 🌱 I’m currently learning **Ancible, Snow Flake, AWS, Tableau, Data Modeling** <br>
 
-- 👯 I’m looking to collaborate related to **Customer Retention, HR, Social Psychology (Autism)** <br>
+- 👯 I’m looking to collaborate related to **I’m looking to collaborate on projects related to SQL, Linux, Virtualization, Git, and Python. I'm also interested in learning and working with Ansible, Snowflake, AWS, and Tableau. Open to opportunities in IT infrastructure, data analytics, and cloud technologies. Let's connect and explore potential collaborations in these areas!** <br>
 
-- 💬 Ask me about **Python, Pandas, seaborn, Visualization** <br>
+- 💬 Ask me about **Python,Linux, Bash, Customer Support, Vir** <br>
 
 - 📫 How to reach me [raoalitalha@gmail.com](mailto:raoalitalha@gmail.com) <br>
 
